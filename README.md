@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <h1>https://linktr.ee/jaohari</h1>
+  <h1>www.linkedin.com/in/jaoharil-maknun-8798a0303</h1>
 <a href="https://instagram.com/https://www.instagram.com/_thunder_040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_thunder_040/" height="30" width="40" /></a>
 </p>
 
